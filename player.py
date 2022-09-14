@@ -1,5 +1,6 @@
 from gameObject import GameObject
 
+# komentar kvoli githubu, toto je prototyp pre hraca
 class Player(GameObject):
 
     def __init__(self, x, y, width, height, image_path, speed):
